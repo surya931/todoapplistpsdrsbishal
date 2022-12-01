@@ -1,0 +1,9 @@
+{
+  "routes": [
+    {
+      "src": "/posts/(.*)",
+      "headers": { "Location": "/blog/$1" },
+      "status": 307
+    }
+  ]
+}
