@@ -1,0 +1,6 @@
+{
+  "alias": ["example.com"],
+  "github": {
+    "autoAlias": false
+  }
+}
