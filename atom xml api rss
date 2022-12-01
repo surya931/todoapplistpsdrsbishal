@@ -1,0 +1,3 @@
+{
+  "routes": [{ "src": "/atom\\.xml", "dest": "/api/rss" }]
+}
